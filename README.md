@@ -1,14 +1,14 @@
 ### Hi there! 👋
 
-> This project is a final exercise inside the Origamid course. The project was maded with HTML5 and Css3 and Javascript.
+> This project it's a funny exercise that simulate a Tinder for dogs. Used Html, Css3 and Bootstrap.
 <img width="1426" alt="Captura de Tela 2023-01-23 às 13:36" src="src/components/images/site-example.png">
 
 ## What is inside?
 
 - HTML
 - CSS3 
+- Bootstrap
 - Prettier
--Javascript
 
 ## Getting Started
 
