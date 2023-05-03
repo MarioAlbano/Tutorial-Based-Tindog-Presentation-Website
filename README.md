@@ -1,13 +1,14 @@
 ### Hi there! 👋
 
-> This project it's a exercise that simulate a sports web-site.
-<img width="1426" alt="Captura de Tela 2023-01-23 às 13:36" src="src/components/site-example.jpg">
+> This project it's a funny exercise that simulate a Tinder for dogs. Used Html, Css3 and Bootstrap.
+<img width="1426" alt="Captura de Tela 2023-01-23 às 13:36" src="src/components/images/site-example.png">
 
 ## What is inside?
 
 - HTML
 - CSS3 
 - Bootstrap
+- Prettier
 
 ## Getting Started
 
